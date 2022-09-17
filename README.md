@@ -4,7 +4,7 @@ It calculate the user Bmi by taking the users age and weight together with the h
 And return information for overWeight, underweight or normal users 
 
 
-#Libary used
+# Libary Used
 materilal dart
 dart math
 

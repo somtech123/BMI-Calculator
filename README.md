@@ -1,16 +1,16 @@
-# bmi_calculator
+# BMI-Calculator
+BMI Calculator Flutter App with State Management
+It calculate the user Bmi by taking the users age and weight together with the height,
+And return information for overWeight, underweight or normal users 
 
-A new Flutter project.
 
-## Getting Started
+# Libary Used
+materilal dart,
 
-This project is a starting point for a Flutter application.
+dart math
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot (5)](https://user-images.githubusercontent.com/100732124/190874049-20b02861-1b4a-4c3b-814e-5de9cb1fd4a7.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+https://user-images.githubusercontent.com/100732124/190874226-8392a0a7-8d8f-42eb-82fc-dbb27df0978e.mp4
